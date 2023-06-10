@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.destinationContainer {
+  max-width: 250px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
+
+.image {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.destinationName {
+  text-align: left;
+  font-family: Roboto;
+  font-size: 13px;
+  color: #252627;
+  font-weight: bold;
+  padding-left: 10px;
+}
